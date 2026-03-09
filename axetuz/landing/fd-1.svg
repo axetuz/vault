@@ -1,8 +1,8 @@
 <svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_6388_81)">
-<rect x="657.094" y="280" width="526.604" height="414.432" transform="rotate(12.428 657.094 280)" fill="#29A914"/>
 <rect x="767.551" y="500.84" width="224.781" height="275.119" transform="rotate(12.428 767.551 500.84)" fill="white"/>
 <rect x="767.551" y="500.84" width="224.781" height="275.119" transform="rotate(12.428 767.551 500.84)" fill="#29A914"/>
+<rect x="657.094" y="280" width="526.604" height="414.432" transform="rotate(12.428 657.094 280)" fill="#29A914"/>
 <rect x="240" y="553" width="353" height="144" fill="white"/>
 <rect x="240" y="553" width="353" height="144" fill="#E2FF05"/>
 <rect x="496" y="441" width="128" height="128" fill="white"/>
